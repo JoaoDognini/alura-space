@@ -1,6 +1,9 @@
+import './styles/estilosGlobais.scss';
+import PaginaInicial from "./paginas/PaginaInicial";
+
 function App() {
   return (
-   <h1>pene</h1>
+   <PaginaInicial></PaginaInicial>
   );
 }
 
